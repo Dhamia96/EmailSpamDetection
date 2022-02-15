@@ -1,2 +1,3 @@
 # EmailSpamDetection
-Classify incoming mail into spam or ham using Python
+## Natural Language processing Problem (NLP)
+classifying  incoming mails into spam or ham using Python
